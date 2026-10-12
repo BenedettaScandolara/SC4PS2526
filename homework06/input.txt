@@ -1,0 +1,10 @@
+# length of the vectors
+N = 100
+# number of elements in each chunk
+chunk_size = 8
+# d = a*x + y
+a = 3
+x = 0.1
+y = 7.1
+# HDF5 output file
+output_file = output/chunks.h5

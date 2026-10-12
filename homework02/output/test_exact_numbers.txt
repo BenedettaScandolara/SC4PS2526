@@ -1,0 +1,21 @@
+### ./hw2 10 3 0.5 7.5 9
+N = 10, a = 3, x = 0.5, y = 7.5
+Valore atteso : 9.00000000000000000000
+d[0]          : 9.00000000000000000000
+Confronto esatto (==)          : 0 sbagliati su 10
+Confronto con tolleranza 1e-9  : 0 sbagliati su 10
+
+### ./hw2 1000000 3 0.5 7.5 9
+N = 1000000, a = 3, x = 0.5, y = 7.5
+Valore atteso : 9.00000000000000000000
+d[0]          : 9.00000000000000000000
+Confronto esatto (==)          : 0 sbagliati su 1000000
+Confronto con tolleranza 1e-9  : 0 sbagliati su 1000000
+
+### ./hw2 100000000 3 0.5 7.5 9
+N = 100000000, a = 3, x = 0.5, y = 7.5
+Valore atteso : 9.00000000000000000000
+d[0]          : 9.00000000000000000000
+Confronto esatto (==)          : 0 sbagliati su 100000000
+Confronto con tolleranza 1e-9  : 0 sbagliati su 100000000
+

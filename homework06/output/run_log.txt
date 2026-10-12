@@ -1,0 +1,7 @@
+N = 100, chunk_size = 8, numero di chunk = 13
+Controllo 1: elementi di d diversi dal codice originale: 0 su 100
+Controllo 2: somma originale = 739.99999999999864
+             somma dei chunk = 740.00000000000011
+             uguali con ==: NO
+             differenza relativa = 2e-15
+Chunk e somme parziali salvati in output/chunks.h5

@@ -1,0 +1,18 @@
+1) Lancio di monete
+   n =     10   frazione di teste = 0.50000
+   n =    100   frazione di teste = 0.38000
+   n =   1000   frazione di teste = 0.50000
+   n =  10000   frazione di teste = 0.50520
+   n = 100000   frazione di teste = 0.50048
+2) Stima di pi
+   N =       10   pi = 2.400000   errore = 7.42e-01
+   N =      100   pi = 3.040000   errore = 1.02e-01
+   N =     1000   pi = 3.232000   errore = 9.04e-02
+   N =    10000   pi = 3.129600   errore = 1.20e-02
+   N =   100000   pi = 3.148400   errore = 6.81e-03
+   N =  1000000   pi = 3.140388   errore = 1.20e-03
+   N = 10000000   pi = 3.141396   errore = 1.97e-04
+3-4) 100000 campioni di U^2 e dell'esponenziale salvati in output/samples.csv
+mean of the exponential sample = 0.6664 (expected 1/lambda = 0.6667)
+max |empirical CDF - exact CDF| = 0.0017
+plots saved in output/

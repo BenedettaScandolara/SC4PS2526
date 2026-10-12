@@ -1,0 +1,105 @@
+HDF5 "output/chunks.h5" {
+GROUP "/" {
+   GROUP "chunks" {
+      DATASET "chunk_000" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_001" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_002" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_003" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_004" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_005" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_006" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_007" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_008" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_009" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_010" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_011" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 8 ) / ( 8 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4, 7.4
+         }
+      }
+      DATASET "chunk_012" {
+         DATATYPE  H5T_IEEE_F64LE
+         DATASPACE  SIMPLE { ( 4 ) / ( 4 ) }
+         DATA {
+         (0): 7.4, 7.4, 7.4, 7.4
+         }
+      }
+   }
+   DATASET "partial_chunk_sum" {
+      DATATYPE  H5T_IEEE_F64LE
+      DATASPACE  SIMPLE { ( 13 ) / ( 13 ) }
+      DATA {
+      (0): 59.2, 59.2, 59.2, 59.2, 59.2, 59.2, 59.2, 59.2, 59.2, 59.2, 59.2,
+      (11): 59.2, 29.6
+      }
+   }
+}
+}

@@ -1,0 +1,9 @@
+N = 5, a = 2, b = 3
+ordine   tempo (s)   sbagliati   controllo veloce
+ijk         0.000           0    OK
+ikj         0.000           0    OK
+jik         0.000           0    OK
+jki         0.000           0    OK
+kij         0.000           0    OK
+kji         0.000           0    OK
+Matrice C salvata in output/C_N5.txt

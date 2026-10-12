@@ -1,0 +1,9 @@
+N = 1024, a = 2, b = 3
+ordine   tempo (s)   sbagliati   controllo veloce
+ijk         1.489           0    OK
+ikj         0.169           0    OK
+jik         1.488           0    OK
+jki         6.534           0    OK
+kij         0.209           0    OK
+kji         6.456           0    OK
+Matrice C salvata in C.txt
